@@ -717,8 +717,8 @@
     "4169f1fe-8228-4b2d-8cd2-18e07b18c5be": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/Characters/Fernando/Fernando Player.scene.nasset",
-        "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f",
+        "path": "Assets/Source/Characters/Fernando/Fernando.scene.nasset",
+        "thumbnail": "79bf5cf5-8c50-46cb-bef5-d0ea7e4881f8",
         "tags": [
             "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
         ],
@@ -1175,6 +1175,10 @@
     "78922d08-21d9-1b9f-4db2-b8bd5c9e7a15": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Space_Farce.scene.nasset/Tree Light 1.mesh.nasset/Thumbnails/Tree Light 1.mesh.nasset.tex.nasset"
+    },
+    "79bf5cf5-8c50-46cb-bef5-d0ea7e4881f8": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Characters/Fernando/Thumbnails/Fernando.scene.nasset.tex.nasset"
     },
     "79faf7b6-deb1-d8cc-5aa7-e233c51e8370": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -2102,7 +2106,7 @@
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "componentTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/M_Farce_Sky.mtli.nasset",
-        "thumbnail": "1b705561-d3bf-fb1d-63af-9c19a3587c68"
+        "thumbnail": "d3238708-0f67-29b2-67c8-0d8693835786"
     },
     "d1f90d52-bfe0-fd05-47c5-87933d3a6d09": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
