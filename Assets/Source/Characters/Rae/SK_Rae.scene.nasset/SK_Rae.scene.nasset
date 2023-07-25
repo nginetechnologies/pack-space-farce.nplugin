@@ -1,0 +1,34 @@
+{
+    "guid": "71c56514-91fe-ba38-b045-4aac475f11fb",
+    "source": "../SK_Rae.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "589211d7-f778-4f60-bb40-2e90de3e77ac",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "SK Rae"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d1b2ee4b-ec9f-fe8c-0123-dbb32933d7d8",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Rae"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e960addb-5559-bf6e-9ecb-53ab49555cb4"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "71c56514-91fe-ba38-b045-4aac475f11fb"
+    },
+    "dependencies": [
+        "e960addb-5559-bf6e-9ecb-53ab49555cb4"
+    ]
+}
