@@ -1,5 +1,5 @@
 {
-    "guid": "2f2c36b3-71ed-4087-9cba-35a27abed42d",
+    "guid": "aa1c0828-5ba6-4950-b38e-5666cbbac391",
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
     "2a2bce0a-6314-481b-a5a0-7d01e1c00b35": {
         "radius": 1024.0
@@ -129,12 +129,12 @@
                                 ]
                             },
                             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                                "scene": "e7a651fe-35b5-50d9-9146-b7b2d95d7d12"
+                                "scene": ""
                             },
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Finn character scene"
+                                    "name": "CyNando character scene"
                                 }
                             ]
                         }
@@ -172,9 +172,9 @@
     },
     "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-        "scene": "2f2c36b3-71ed-4087-9cba-35a27abed42d"
+        "scene": "aa1c0828-5ba6-4950-b38e-5666cbbac391"
     },
-    "thumbnailGuid": "5167a2ad-ab45-4052-bda1-6914d0bb8df9",
+    "thumbnailGuid": "020d4fb8-5456-4cb3-a62f-019004e5f0b2",
     "dependencies": [
         "e7a651fe-35b5-50d9-9146-b7b2d95d7d12"
     ]

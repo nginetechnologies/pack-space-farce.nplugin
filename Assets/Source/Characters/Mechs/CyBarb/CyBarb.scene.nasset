@@ -1,5 +1,5 @@
 {
-    "guid": "2f2c36b3-71ed-4087-9cba-35a27abed42d",
+    "guid": "f6785f54-1c17-4d2e-9980-8954690515e0",
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
     "2a2bce0a-6314-481b-a5a0-7d01e1c00b35": {
         "radius": 1024.0
@@ -129,12 +129,12 @@
                                 ]
                             },
                             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                                "scene": "e7a651fe-35b5-50d9-9146-b7b2d95d7d12"
+                                "scene": ""
                             },
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Finn character scene"
+                                    "name": "CyBarb character scene"
                                 }
                             ]
                         }
@@ -172,10 +172,10 @@
     },
     "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-        "scene": "2f2c36b3-71ed-4087-9cba-35a27abed42d"
+        "scene": "f6785f54-1c17-4d2e-9980-8954690515e0"
     },
-    "thumbnailGuid": "5167a2ad-ab45-4052-bda1-6914d0bb8df9",
+    "thumbnailGuid": "cf4434b1-a991-4d72-ae33-591e1876acce",
     "dependencies": [
-        "e7a651fe-35b5-50d9-9146-b7b2d95d7d12"
+        ""
     ]
 }
