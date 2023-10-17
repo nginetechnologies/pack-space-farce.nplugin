@@ -4,7 +4,9 @@
     "2a2bce0a-6314-481b-a5a0-7d01e1c00b35": {
         "radius": 1024.0
     },
-    "tags": ["7f567180-238f-4a1b-bcbf-fcd740c8a9ea"],
+    "tags": [
+        "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+    ],
     "data_components": [
         {
             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -28,6 +30,18 @@
                 },
                 {
                     "typeGuid": "be33f822-02f0-4d8b-9553-8f6200b43f83"
+                },
+                {
+                    "typeGuid": "ee97e36e-3e03-45ba-9bd2-8734e32dcb8e",
+                    "maximum": 3,
+                    "minimum": 0
+                },
+                {
+                    "typeGuid": "87a8c14a-291b-4d8f-9bf7-69d2d290c2aa"
+                },
+                {
+                    "typeGuid": "194FFAFF-AB13-464A-AE69-788646258B9F",
+                    "duration": 120
                 }
             ],
             "children": [
