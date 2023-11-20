@@ -91,5 +91,14 @@
     "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
         "scene": "685850c1-965b-af6a-a7a4-bf7a424e8422"
-    }
+    },
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "data_components": [],
+    "dependencies": [
+        "410333bc-99b1-ab83-fb7a-ce57d9ae9d14",
+        "88578180-684c-9460-d380-5be12e146427",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7"
+    ]
 }
