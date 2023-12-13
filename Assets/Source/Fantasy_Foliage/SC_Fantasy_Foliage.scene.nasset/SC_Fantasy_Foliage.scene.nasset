@@ -1,0 +1,215 @@
+{
+    "guid": "709a75d2-b8a0-f26c-c6fd-cdc8e8e0d02b",
+    "source": "../SC_Fantasy_Foliage.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "d7834842-1a5d-79ca-2793-6a29d9426272",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Fantasy Foliage"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c32f0f58-cde7-f7b8-98e4-e11772456eeb",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fantasy Bush 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "112b07e9-9ff2-d8f0-f912-591a4f970c28"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8a45a88c-fc9e-3c1b-5753-fea6b9b9e22e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fantasy Bush 3"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "rotation": [
+                    -90.0,
+                    0.0,
+                    0.0
+                ],
+                "scale": [
+                    0.8158
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4445a4cc-15cc-812f-750e-d4f161353758"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "2e34ecc4-a9c8-6722-0662-8cc742937cae",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fantasy Tree 3"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "rotation": [
+                    90.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "50fd767c-f9be-cd9e-1b61-226700aa5ce9"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b97d78b6-7df0-7583-5a69-ff236285cd5b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fantasy Tree 4"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "89643e78-0c8b-5d9c-b1c0-5522aa2d127d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e051b0aa-1358-11c4-62af-0edc5a01e081",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fantasy Bush 2"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "rotation": [
+                    -90.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "db03b0a1-88f0-179c-02b5-b2325fd2c57a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3ace05ed-88ee-9e0f-c87e-a9e7dba05a2d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fantasy Flower 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a331fc83-7078-6f24-cb99-f62014496885"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b1145da8-46d5-051e-b99e-96601f3a671e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fantasy Flower 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "bcfc7a72-4d0f-4599-ef06-2994d65fec58"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "62f99d3d-168e-5495-a868-10d5a0ae76a6",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fantasy Flower 3"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "rotation": [
+                    0.0,
+                    0.0,
+                    -30.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "57dbe410-ff21-b45f-7f4d-76a7e9996229"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0d4bb631-6bf7-673d-368c-343cc778d4de",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fantasy Mushroom"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e00f277d-2962-8520-5ec7-8cdeb35485b1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ee2c0187-b071-2ad3-1629-7232852e41e3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fantasy Tree 1"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "rotation": [
+                    -90.0,
+                    0.0,
+                    0.0
+                ],
+                "scale": [
+                    0.7149
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "fa5fd977-aa63-3f5f-c7ee-26afc68379cd"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "596fdc7c-6721-06ba-75ba-5a9dfdf8b6a4",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fantasy Tree 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "863a94ac-e036-c370-026e-024acb01de6f"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "709a75d2-b8a0-f26c-c6fd-cdc8e8e0d02b"
+    },
+    "dependencies": [
+        "112b07e9-9ff2-d8f0-f912-591a4f970c28",
+        "4445a4cc-15cc-812f-750e-d4f161353758",
+        "50fd767c-f9be-cd9e-1b61-226700aa5ce9",
+        "89643e78-0c8b-5d9c-b1c0-5522aa2d127d",
+        "db03b0a1-88f0-179c-02b5-b2325fd2c57a",
+        "a331fc83-7078-6f24-cb99-f62014496885",
+        "bcfc7a72-4d0f-4599-ef06-2994d65fec58",
+        "57dbe410-ff21-b45f-7f4d-76a7e9996229",
+        "e00f277d-2962-8520-5ec7-8cdeb35485b1",
+        "fa5fd977-aa63-3f5f-c7ee-26afc68379cd",
+        "863a94ac-e036-c370-026e-024acb01de6f"
+    ]
+}
