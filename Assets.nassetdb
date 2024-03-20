@@ -120,6 +120,11 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "0c4992b4-5144-0299-fff7-6ef958a2993e": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/S_Farce_Deselect.audio.nasset"
+    },
     "0c6d15fa-ff99-4ab1-96c6-ac7a8fa1d555": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -727,6 +732,11 @@
             "432fab2e-ac32-1e65-399c-b4db5bc163e7",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "37072d3a-3e14-e94f-f760-ac07d7bb4654": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/S_Farce_Footstep_Dirt_2.audio.nasset"
     },
     "3756605c-c286-4910-a973-4df7be01209b": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -1387,6 +1397,11 @@
         "dependencies": [
             "e7a651fe-35b5-50d9-9146-b7b2d95d7d12"
         ]
+    },
+    "6978dceb-0ee6-6ef5-d20f-01edcbe2027d": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/S_Farce_Pickup.audio.nasset"
     },
     "6a3daa34-4077-159d-cd98-3052b27b30d6": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -2765,6 +2780,11 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Space_Farce.scene.nasset/Grass 1.mesh.nasset/Thumbnails/Grass 1.mesh.nasset.tex.nasset"
     },
+    "c862f0d2-042a-3810-689d-3a0bfec39637": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/S_Farce_Select.audio.nasset"
+    },
     "caa7e25a-9b32-27c2-2cd7-210b42a58943": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Characters/Barbara/Material Instances/Barbara.mtli.nasset",
@@ -2773,6 +2793,11 @@
             "846a87e3-b738-4471-a336-bcac78e126b1",
             "db01c46e-e832-0a10-ba55-62db933b4c58"
         ]
+    },
+    "cbae314d-697f-acdd-3cd5-e044394dd50e": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/S_Farce_Spawn.audio.nasset"
     },
     "cc3e2e50-c03e-e3b5-ad08-03f75ce8f6cd": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -2823,6 +2848,11 @@
             "7f5a45b4-ed38-5001-f12a-010f9906fc56",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "d22ee913-b77b-d44e-1a8f-8361eef455a7": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/S_Farce_Ambience.audio.nasset"
     },
     "d4a268d1-3d47-039f-48c4-a5208dc5ef10": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -3273,6 +3303,11 @@
             "3fd2336b-1d17-19fd-ff20-e73321bb58a9",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "fed3cc7a-3ec4-c732-b1bb-4b6ba1e774b8": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/S_Farce_Footstep_Dirt_1.audio.nasset"
     },
     "ff68dc34-67c6-f769-40a4-b2270c978ec0": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",

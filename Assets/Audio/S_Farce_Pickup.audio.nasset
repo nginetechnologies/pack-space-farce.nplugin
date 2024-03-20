@@ -1,0 +1,9 @@
+{
+    "guid": "6978dceb-0ee6-6ef5-d20f-01edcbe2027d",
+    "source": "S_Farce_Pickup.wav",
+    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+    "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+    "ea45accb-89d5-4816-9831-f116045b90e4": {
+        "audio_asset": "6978dceb-0ee6-6ef5-d20f-01edcbe2027d"
+    }
+}
