@@ -89,6 +89,14 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Space_Farce.scene.nasset/House Single.mesh.nasset/Thumbnails/House Single.mesh.nasset.tex.nasset"
     },
+    "06091e61-c182-4f5a-b013-8e12df00ff33": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/Animations/Mech Shoot Big.anim.nasset",
+        "dependencies": [
+            "2635645c-d3c3-cced-266d-cea3f0369120"
+        ]
+    },
     "069d44a8-d11c-2f44-4a4e-48967b5a0f84": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Characters/Aliens/SK_Shoe_Horn.scene.nasset/SK Shoe Horn.mesh.nasset/SK Shoe Horn.mesh.nasset",
@@ -191,6 +199,14 @@
         "dependencies": [
             "410333bc-99b1-ab83-fb7a-ce57d9ae9d14",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "1084cfe3-d20a-4b8e-bb20-8eace8e5e12c": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/Animations/Mech Hit React 2.anim.nasset",
+        "dependencies": [
+            "2635645c-d3c3-cced-266d-cea3f0369120"
         ]
     },
     "112b07e9-9ff2-d8f0-f912-591a4f970c28": {
@@ -956,6 +972,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "3a4540f8-9ee0-486c-b80a-da1e4f031903": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/Animations/Mech Walk.anim.nasset",
+        "dependencies": [
+            "2635645c-d3c3-cced-266d-cea3f0369120"
+        ]
+    },
     "3a46825b-6900-b4af-93ea-0448fd5d6bf6": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1192,6 +1216,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "471e824d-646d-4899-a182-1c3ce1e68714": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/Animations/Mech Kick.anim.nasset",
+        "dependencies": [
+            "2635645c-d3c3-cced-266d-cea3f0369120"
+        ]
+    },
     "4807f20d-6d17-f46d-bec4-545163c7d3dd": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Fantasy_Foliage/SC_Fantasy_Foliage.scene.nasset/Fantasy Tree 3.mesh.nasset/Thumbnails/Fantasy Tree 3.mesh.nasset.tex.nasset"
@@ -1282,6 +1314,14 @@
             "410333bc-99b1-ab83-fb7a-ce57d9ae9d14",
             "0fa3ce3d-2957-949c-eca3-779bdcd53ce5",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "4e537573-e989-45f1-82d5-5a9640feca53": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/Animations/Mech Yes.anim.nasset",
+        "dependencies": [
+            "2635645c-d3c3-cced-266d-cea3f0369120"
         ]
     },
     "4e8ca7bf-c428-bba9-12cc-e06c11f2ebfb": {
@@ -1475,6 +1515,14 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Fantasy_Foliage/Material Instances/Thumbnails/Fantasy Tree 4.mtli.nasset.tex.nasset"
     },
+    "5b592b64-e0f4-4b50-8b52-6aef65c964ba": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/Animations/Mech Shoot Small.anim.nasset",
+        "dependencies": [
+            "2635645c-d3c3-cced-266d-cea3f0369120"
+        ]
+    },
     "5ba5f2b7-5fcd-9d0e-de61-57c573336a4d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1558,6 +1606,14 @@
         "dependencies": [
             "410333bc-99b1-ab83-fb7a-ce57d9ae9d14",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "5ed660e5-9812-412c-bf6e-228e03666fa2": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/Animations/Mech Jump End.anim.nasset",
+        "dependencies": [
+            "2635645c-d3c3-cced-266d-cea3f0369120"
         ]
     },
     "5f108139-d937-4716-901e-5b50a8ee0808": {
@@ -1715,6 +1771,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "6b138a5c-b392-4f37-92ae-40ffbc56caab": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/Animations/Mech Jump Loop.anim.nasset",
+        "dependencies": [
+            "2635645c-d3c3-cced-266d-cea3f0369120"
+        ]
+    },
     "6b4a76d8-861f-eadc-3ae7-6ee7c6181243": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1812,6 +1876,14 @@
             "e00f277d-2962-8520-5ec7-8cdeb35485b1",
             "fa5fd977-aa63-3f5f-c7ee-26afc68379cd",
             "863a94ac-e036-c370-026e-024acb01de6f"
+        ]
+    },
+    "70a2eeba-bcfb-4e4a-a988-eec1ae827266": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/Animations/Mech Hit React 1.anim.nasset",
+        "dependencies": [
+            "2635645c-d3c3-cced-266d-cea3f0369120"
         ]
     },
     "70feb5b9-e701-4b38-b22c-5479c4cea4f6": {
@@ -2745,6 +2817,14 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Space_Farce.scene.nasset/Planet 6.mesh.nasset/Thumbnails/Planet 6.mesh.nasset.tex.nasset"
     },
+    "a92f9f65-3ddf-4f84-9505-f4fc14feb1a3": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/Animations/Mech Death.anim.nasset",
+        "dependencies": [
+            "2635645c-d3c3-cced-266d-cea3f0369120"
+        ]
+    },
     "a9f6b556-64b1-1b36-c3b8-cc4701f28648": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3003,6 +3083,14 @@
     "b98a43e3-60e6-d579-d620-70a76a2429ac": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Space_Farce.scene.nasset/Plant 3.mesh.nasset/Thumbnails/Plant 3.mesh.nasset.tex.nasset"
+    },
+    "bb248ea1-2707-427e-8f0e-4c4a856bbf9d": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/Animations/Mech Hello.anim.nasset",
+        "dependencies": [
+            "2635645c-d3c3-cced-266d-cea3f0369120"
+        ]
     },
     "bb704183-30b7-8742-11c9-6940707f2a25": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -3480,6 +3568,14 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Characters/Rae/Material Instances/Thumbnails/Rae.mtli.nasset.tex.nasset"
     },
+    "deda51b0-ca97-4f36-b4f8-1b1f52ce1da8": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/Animations/Mech No.anim.nasset",
+        "dependencies": [
+            "2635645c-d3c3-cced-266d-cea3f0369120"
+        ]
+    },
     "df491e8f-4ac6-a0e0-0b2a-1cfdd3c2b4d5": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3509,6 +3605,14 @@
     "dfa7f618-b024-02c0-73b1-33af3bec1763": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Space_Farce.scene.nasset/House Long.mesh.nasset/Thumbnails/House Long.mesh.nasset.tex.nasset"
+    },
+    "dfcac84f-78a1-4bf8-8c42-d695137e9801": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/Animations/Mech Pickup.anim.nasset",
+        "dependencies": [
+            "2635645c-d3c3-cced-266d-cea3f0369120"
+        ]
     },
     "e00f277d-2962-8520-5ec7-8cdeb35485b1": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -3610,6 +3714,14 @@
             "346cddfa-38c3-4bfc-8300-84b7b3b29088"
         ]
     },
+    "e7afbd27-4c6f-4a1d-9983-9acf92a76f91": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/Animations/Mech Jump Start.anim.nasset",
+        "dependencies": [
+            "2635645c-d3c3-cced-266d-cea3f0369120"
+        ]
+    },
     "e7c2bf3b-6b3c-e3e1-57bd-d644882dd9ce": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3678,6 +3790,14 @@
         "path": "Assets/Characters/Aliens/Animations/Mean_Green/Mean Green Hit React.anim.nasset",
         "dependencies": [
             "d03a3d97-5677-d76f-7a23-c4efc735aa8f"
+        ]
+    },
+    "eb009683-f4ad-4a60-bc41-4da2cb5d4b0e": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/Animations/Mech Idle.anim.nasset",
+        "dependencies": [
+            "2635645c-d3c3-cced-266d-cea3f0369120"
         ]
     },
     "ebee9907-b900-45da-98d0-82abbad6b49c": {
@@ -3801,6 +3921,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "f856009b-65fe-4d48-a08f-4ee90eef7354": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/Animations/Mech Run.anim.nasset",
+        "dependencies": [
+            "2635645c-d3c3-cced-266d-cea3f0369120"
+        ]
+    },
     "f96aa263-a114-93e0-99e0-1050549d7aaa": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3847,6 +3975,14 @@
             "410333bc-99b1-ab83-fb7a-ce57d9ae9d14",
             "3fd2336b-1d17-19fd-ff20-e73321bb58a9",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "fe8e4d68-89be-4d90-9e41-e5761d6b9afb": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/Animations/Mech Dance.anim.nasset",
+        "dependencies": [
+            "2635645c-d3c3-cced-266d-cea3f0369120"
         ]
     },
     "fed3cc7a-3ec4-c732-b1bb-4b6ba1e774b8": {
