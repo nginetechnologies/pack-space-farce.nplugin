@@ -222,6 +222,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "138cc279-08f7-4da6-a8f4-1cc4a2862666": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Aliens/Animations/Mean_Green/Mean Green Wave.anim.nasset",
+        "dependencies": [
+            "d03a3d97-5677-d76f-7a23-c4efc735aa8f"
+        ]
+    },
     "1409f739-56fa-ad1f-65e0-6145e99e358b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -700,6 +708,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "31734e6f-5c94-4211-9547-ad917ca29f09": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Aliens/Animations/Mean_Green/Mean Green Jump End.anim.nasset",
+        "dependencies": [
+            "d03a3d97-5677-d76f-7a23-c4efc735aa8f"
+        ]
+    },
     "32055b82-401e-cf43-7774-d3109731ee57": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Aliens/Material Instances/Aliens Farce.mtli.nasset",
@@ -991,6 +1007,14 @@
         "dependencies": [
             "410333bc-99b1-ab83-fb7a-ce57d9ae9d14",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "41c965ae-6778-4b75-a3c3-b2774b84b0d5": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Aliens/Animations/Mean_Green/Mean Green Weapon.anim.nasset",
+        "dependencies": [
+            "d03a3d97-5677-d76f-7a23-c4efc735aa8f"
         ]
     },
     "42fb2cf3-f0b0-1f83-e97a-08615a7158f9": {
@@ -1411,6 +1435,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "5f108139-d937-4716-901e-5b50a8ee0808": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Aliens/Animations/Mean_Green/Mean Green Idle.anim.nasset",
+        "dependencies": [
+            "d03a3d97-5677-d76f-7a23-c4efc735aa8f"
+        ]
+    },
     "5f6f97f4-af96-9578-53b5-100396637f80": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Space_Farce.scene.nasset/Powerup.mesh.nasset/Thumbnails/Powerup.mesh.nasset.tex.nasset"
@@ -1627,6 +1659,14 @@
             "e00f277d-2962-8520-5ec7-8cdeb35485b1",
             "fa5fd977-aa63-3f5f-c7ee-26afc68379cd",
             "863a94ac-e036-c370-026e-024acb01de6f"
+        ]
+    },
+    "70feb5b9-e701-4b38-b22c-5479c4cea4f6": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Aliens/Animations/Mean_Green/Mean Green No.anim.nasset",
+        "dependencies": [
+            "d03a3d97-5677-d76f-7a23-c4efc735aa8f"
         ]
     },
     "71690169-a7db-9397-da3e-acae9cbf44dc": {
@@ -2205,6 +2245,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "9054927d-ee55-4f3e-89ae-ce186acac814": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Aliens/Animations/Mean_Green/Mean Green Walk.anim.nasset",
+        "dependencies": [
+            "d03a3d97-5677-d76f-7a23-c4efc735aa8f"
+        ]
+    },
     "905cabac-a883-f689-622a-e2302111524f": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Fantasy_Foliage/Material Instances/Thumbnails/Fantasy Flower 2.mtli.nasset.tex.nasset"
@@ -2483,6 +2531,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "a7702203-ee1b-4391-aa56-f7ebff3cad2b": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Aliens/Animations/Mean_Green/Mean Green Jump Loop.anim.nasset",
+        "dependencies": [
+            "d03a3d97-5677-d76f-7a23-c4efc735aa8f"
+        ]
+    },
     "a7c6fa2c-08df-d1e6-74cc-2d550d83e861": {
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -2583,6 +2639,14 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Fantasy_Foliage/textures/T_Fantasy_Tree_4_D.tex.nasset"
     },
+    "ad549699-95bb-4e03-b213-df110e46302c": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Aliens/Animations/Mean_Green/Mean Green Death.anim.nasset",
+        "dependencies": [
+            "d03a3d97-5677-d76f-7a23-c4efc735aa8f"
+        ]
+    },
     "ae882748-297c-242f-f49d-547d94d5ac8a": {
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -2599,6 +2663,14 @@
     "aeaeb28c-2a2e-d638-0181-b38b35c10374": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Space_Farce.scene.nasset/Tree Spikes 2.mesh.nasset/Thumbnails/Tree Spikes 2.mesh.nasset.tex.nasset"
+    },
+    "aec58b9f-f10f-4c49-9211-49d8dd3bc1e6": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Aliens/Animations/Mean_Green/Mean Green Punch.anim.nasset",
+        "dependencies": [
+            "d03a3d97-5677-d76f-7a23-c4efc735aa8f"
+        ]
     },
     "b04f1c22-15e5-b4dd-4804-1ef54302beed": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -3039,6 +3111,22 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Aliens/SK_Honker.scene.nasset/SK Honker.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
+    "d31f7a01-ac9d-4cbe-911b-dcb1df6313d6": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Aliens/Animations/Mean_Green/Mean Green Duck.anim.nasset",
+        "dependencies": [
+            "d03a3d97-5677-d76f-7a23-c4efc735aa8f"
+        ]
+    },
+    "d3d413f1-87a7-44fd-870a-a475e4bac3b7": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Aliens/Animations/Mean_Green/Mean Green Yes.anim.nasset",
+        "dependencies": [
+            "d03a3d97-5677-d76f-7a23-c4efc735aa8f"
+        ]
+    },
     "d4a268d1-3d47-039f-48c4-a5208dc5ef10": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3238,6 +3326,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "e1539456-acd6-49c6-a5c1-2ebd2cba7ff7": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Aliens/Animations/Mean_Green/Mean Green Jump Start.anim.nasset",
+        "dependencies": [
+            "d03a3d97-5677-d76f-7a23-c4efc735aa8f"
+        ]
+    },
     "e27b1551-e106-dd07-a4ff-7ce47ba47c60": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Space_Farce.scene.nasset/Planet 5.mesh.nasset/Thumbnails/Planet 5.mesh.nasset.tex.nasset"
@@ -3353,6 +3449,14 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Space_Farce.scene.nasset/Tree Spiral 2.mesh.nasset/Thumbnails/Tree Spiral 2.mesh.nasset.tex.nasset"
     },
+    "eaa7f2b4-91f5-4525-840f-b506538269a8": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Aliens/Animations/Mean_Green/Mean Green Hit React.anim.nasset",
+        "dependencies": [
+            "d03a3d97-5677-d76f-7a23-c4efc735aa8f"
+        ]
+    },
     "ebee9907-b900-45da-98d0-82abbad6b49c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -3435,6 +3539,14 @@
             "410333bc-99b1-ab83-fb7a-ce57d9ae9d14",
             "8c391302-51bb-42a3-c462-5542eb78f388",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "f80760c4-3288-4c6c-a5df-3760b7bf215c": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Aliens/Animations/Mean_Green/Mean Green Run.anim.nasset",
+        "dependencies": [
+            "d03a3d97-5677-d76f-7a23-c4efc735aa8f"
         ]
     },
     "f821e353-53b9-60a0-4d14-8c208f8ff61b": {
