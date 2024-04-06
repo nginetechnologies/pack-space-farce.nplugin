@@ -1,0 +1,75 @@
+{
+    "guid": "862e2c19-9de4-d896-560d-9c5096e21fe0",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "44b80dff-b8ca-dd71-15d6-a41581ed3993",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "56a7b932-9bf1-e4c4-e19d-cccb3d66cbf7",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK CyBarb Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "255b0d70-db78-4318-dcc2-68d30bb409c5",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "9e47aa34-dd23-a445-2758-eb9ec1795de6",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK CyBarb Mech Atlas"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "045b7ff8-8e44-bcf5-85c4-bf85c10fdf3c",
+                                "material_instance": "e5a33c87-5736-6b4e-3bce-e96587143f38"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "6408341c-4eb3-c16c-e506-79c434a3bcf0"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "2635645c-d3c3-cced-266d-cea3f0369120"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "862e2c19-9de4-d896-560d-9c5096e21fe0"
+    },
+    "dependencies": [
+        "e5a33c87-5736-6b4e-3bce-e96587143f38",
+        "045b7ff8-8e44-bcf5-85c4-bf85c10fdf3c",
+        "6408341c-4eb3-c16c-e506-79c434a3bcf0",
+        "2635645c-d3c3-cced-266d-cea3f0369120"
+    ]
+}

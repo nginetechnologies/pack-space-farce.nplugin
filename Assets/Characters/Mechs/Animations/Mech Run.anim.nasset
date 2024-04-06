@@ -1,20 +1,20 @@
 {
-    "source": ".fbx",
-    "skeleton": "",
+    "source": "A_Mech_Run.fbx",
+    "skeleton": "2635645c-d3c3-cced-266d-cea3f0369120",
     "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
     "instanceGuid": "fa9fb1b7-f624-b27b-3d09-d58aa86181a4",
     "f6140603-c29e-4bf9-946d-498dba6709ff": {
-        "skeleton": ""
+        "skeleton": "2635645c-d3c3-cced-266d-cea3f0369120"
     },
     "data_components": [
         {
             "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
-            "animation": ""
+            "animation": "f856009b-65fe-4d48-a08f-4ee90eef7354"
         }
     ],
-    "guid": "",
+    "guid": "f856009b-65fe-4d48-a08f-4ee90eef7354",
     "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
     "dependencies": [
-        ""
+        "2635645c-d3c3-cced-266d-cea3f0369120"
     ]
 }
