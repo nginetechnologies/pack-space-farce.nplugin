@@ -1,10 +1,10 @@
 {
     "source": "A_Enemy_Fast_Flying.fbx",
-    "skeleton": "",
+    "skeleton": "d26f6a34-8cbd-bfab-d369-39209b60168f",
     "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
     "instanceGuid": "fa9fb1b7-f624-b27b-3d09-d58aa86181a4",
     "f6140603-c29e-4bf9-946d-498dba6709ff": {
-        "skeleton": ""
+        "skeleton": "d26f6a34-8cbd-bfab-d369-39209b60168f"
     },
     "data_components": [
         {
@@ -15,6 +15,6 @@
     "guid": "0b7af03f-cef6-4cf9-a0e7-57804e6894ef",
     "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
     "dependencies": [
-        ""
+        "d26f6a34-8cbd-bfab-d369-39209b60168f"
     ]
 }

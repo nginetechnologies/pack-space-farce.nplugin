@@ -1,10 +1,10 @@
 {
     "source": "A_Mean_Green_Weapon.fbx",
-    "skeleton": "",
+    "skeleton": "d03a3d97-5677-d76f-7a23-c4efc735aa8f",
     "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
     "instanceGuid": "fa9fb1b7-f624-b27b-3d09-d58aa86181a4",
     "f6140603-c29e-4bf9-946d-498dba6709ff": {
-        "skeleton": ""
+        "skeleton": "d03a3d97-5677-d76f-7a23-c4efc735aa8f"
     },
     "data_components": [
         {
@@ -15,6 +15,6 @@
     "guid": "41c965ae-6778-4b75-a3c3-b2774b84b0d5",
     "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
     "dependencies": [
-        ""
+        "d03a3d97-5677-d76f-7a23-c4efc735aa8f"
     ]
 }

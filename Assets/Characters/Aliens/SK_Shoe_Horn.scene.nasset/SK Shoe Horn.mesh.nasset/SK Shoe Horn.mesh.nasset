@@ -1,0 +1,75 @@
+{
+    "guid": "069d44a8-d11c-2f44-4a4e-48967b5a0f84",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "2dd4fc28-66a2-4262-ffe8-407c6130f84d",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "2633925a-7f93-b3cc-7ab5-3b7cad4ea71b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Shoe Horn Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "82423394-605b-d2a5-49d3-261daff20699",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "d09961c1-02a5-08dd-8065-f5782a2f32fa",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Shoe Horn Aliens Farce"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "40946c64-0276-b2a4-d877-3ba75b5d8e41",
+                                "material_instance": "32055b82-401e-cf43-7774-d3109731ee57"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "b8876334-a486-36f9-7159-5d3c491b49aa"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "d26f6a34-8cbd-bfab-d369-39209b60168f"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "069d44a8-d11c-2f44-4a4e-48967b5a0f84"
+    },
+    "dependencies": [
+        "32055b82-401e-cf43-7774-d3109731ee57",
+        "40946c64-0276-b2a4-d877-3ba75b5d8e41",
+        "b8876334-a486-36f9-7159-5d3c491b49aa",
+        "d26f6a34-8cbd-bfab-d369-39209b60168f"
+    ]
+}
