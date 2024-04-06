@@ -138,6 +138,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "0b7af03f-cef6-4cf9-a0e7-57804e6894ef": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Aliens/Animations/Enemies_Shared/Enemy Fast Flyng.anim.nasset",
+        "dependencies": [
+            "d26f6a34-8cbd-bfab-d369-39209b60168f"
+        ]
+    },
     "0c3143fc-ea1d-bacd-1298-cb541fccc12f": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Ground.mtli.nasset",
@@ -277,6 +285,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "15075ebd-a752-4eb2-b089-b7bc5495e873": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Aliens/Animations/Enemies_Shared/Enemy Headbutt.anim.nasset",
+        "dependencies": [
+            "d26f6a34-8cbd-bfab-d369-39209b60168f"
+        ]
+    },
     "154b6de0-ee9a-67be-91d0-d73ace2c2404": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -329,6 +345,14 @@
         "dependencies": [
             "410333bc-99b1-ab83-fb7a-ce57d9ae9d14",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "17dd8858-6bcd-4a17-867e-e5465b4cf8ce": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Aliens/Animations/Enemies_Shared/Enemy Punch.anim.nasset",
+        "dependencies": [
+            "d26f6a34-8cbd-bfab-d369-39209b60168f"
         ]
     },
     "1829b016-6491-36ef-7694-bf6a93c6e384": {
@@ -1234,6 +1258,14 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "4d2ab66e-0079-4dd7-bad9-390611f8272c": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Aliens/Animations/Enemies_Shared/Enemy Hit React.anim.nasset",
+        "dependencies": [
+            "d26f6a34-8cbd-bfab-d369-39209b60168f"
+        ]
+    },
     "4d331412-03dd-a07c-f4e2-c2801780b37a": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Space_Farce.scene.nasset/Tree Spiral 3.mesh.nasset/Thumbnails/Tree Spiral 3.mesh.nasset.tex.nasset"
@@ -1756,6 +1788,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "6fdc5e6d-da7f-46ca-8621-1c87fdb7536c": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Aliens/Animations/Enemies_Shared/Enemy No.anim.nasset",
+        "dependencies": [
+            "d26f6a34-8cbd-bfab-d369-39209b60168f"
+        ]
+    },
     "709a75d2-b8a0-f26c-c6fd-cdc8e8e0d02b": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1853,6 +1893,14 @@
     "79bf5cf5-8c50-46cb-bef5-d0ea7e4881f8": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Characters/Fernando/Thumbnails/Fernando.scene.nasset.tex.nasset"
+    },
+    "79ee812d-c6eb-4965-a940-9701a4a9079b": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Aliens/Animations/Enemies_Shared/Enemy Yes.anim.nasset",
+        "dependencies": [
+            "d26f6a34-8cbd-bfab-d369-39209b60168f"
+        ]
     },
     "79faf7b6-deb1-d8cc-5aa7-e233c51e8370": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -2016,6 +2064,14 @@
     "7e4b974f-7737-d7d6-890a-25653fcd23ff": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Space_Farce.scene.nasset/Ramp.mesh.nasset/Thumbnails/Ramp.mesh.nasset.tex.nasset"
+    },
+    "7ef02a54-753a-4fb9-a762-e096e2f008c3": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Aliens/Animations/Enemies_Shared/Enemy Flyng Idle.anim.nasset",
+        "dependencies": [
+            "d26f6a34-8cbd-bfab-d369-39209b60168f"
+        ]
     },
     "7efa64c2-0df5-ec9e-dacf-96c5dd91fc61": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -2547,6 +2603,14 @@
     "a039768c-936f-6ebf-403c-c2feb1a933b4": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Space_Farce.scene.nasset/Plant 2.mesh.nasset/Thumbnails/Plant 2.mesh.nasset.tex.nasset"
+    },
+    "a0e8b92c-877a-4bfd-8724-46e2bee00d2c": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Aliens/Animations/Enemies_Shared/Enemy Death.anim.nasset",
+        "dependencies": [
+            "d26f6a34-8cbd-bfab-d369-39209b60168f"
+        ]
     },
     "a151cf39-d73f-2288-8f37-47599db965ba": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
